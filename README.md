@@ -16,4 +16,4 @@
 
 __Usage__
 
-    git clone
+    git clone https://github.com/mangar/python_sample_project.git
